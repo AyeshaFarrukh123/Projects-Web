@@ -1,0 +1,12 @@
+h2{
+    background-color: beige;
+}
+:placeholder-shown{
+    background-color: rgb(104, 231, 79);
+}
+label{
+    background-color: beige;
+}
+select{
+    background-color: rgb(164, 124, 204);
+}
